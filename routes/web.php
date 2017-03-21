@@ -21,6 +21,8 @@ Route::get('fuck', function () {
     ]);
 });
 
+Route::get('/list-detai', 'ModelController@getDetai');
+
 //Route::get('login', function() {
 //    return view('login');
 //});
