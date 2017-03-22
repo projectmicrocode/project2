@@ -79,6 +79,9 @@
                             <input id="email" type="email" placeholder="Userame"/>
                             <input id="password" type="password" placeholder="Password"/>
                             <input type="text" placeholder="Email"/>
+                            <input type="text" placeholder="Tên Công Ty"/>
+                            <input type="text" placeholder="Địa Chỉ"/>
+                            <input type="number" placeholder="Số Điện Thoại"/>
                             <button>SIGN UP</button>
                             <p class="message">Already registered? <a href="#">Sign In</a></p>
                         </form>
